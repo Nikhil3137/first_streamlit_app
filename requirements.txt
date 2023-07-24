@@ -1,2 +1,1 @@
-##snowflake pyhton connector
-import snowflake.connector
+##snowflake pyhton connecto
