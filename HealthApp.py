@@ -9,9 +9,9 @@ with stremlit.sidebar:
   )
 
 if selected == "Home":
-  streamlit.title(f"You have selected{" selected"})
+  streamlit.title(f"You have selected{selected}")
 if selected == "Projeccts":
-  streamlit.title(f"You have selected{" selected"})  
+  streamlit.title(f"You have selected{selected}")  
 if selected == "Conatcts":
-  streamlit.title(f"You have selected{" selected"})  
+  streamlit.title(f"You have selected{selected}")  
   
